@@ -1,0 +1,236 @@
+[
+ {
+   "productName": "DHP485SFE 18V 3.0Ah Li-Ion LXT Brushless Cordless Combi Drill (",
+   "manufacturer": "Makita",
+   "productId": "321001",
+   "quantityInStock": 26,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618064911/vue-fundamentals/ae235_pn5koq.jpg",
+   "price": 159.99,
+   "category": "Drills"
+ },
+ {
+   "productName": "GSB 18 V-55 18V 2.0Ah Li-Ion Coolpack Brushless Cordless Combi Drill",
+   "manufacturer": "Bosch",
+   "productId": "321002",
+   "quantityInStock": 37,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618064911/vue-fundamentals/ae235_pn5koq.jpg",
+   "price": 99.99,
+   "category": "Drills"
+ },
+ {
+   "productName": "DCD776D2T- GB 18V 2.0Ah Li-Ion XR Cordless Combi Drill ",
+   "manufacturer": "Dewalt",
+   "productId": "321003",
+   "quantityInStock": 12,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618065046/vue-fundamentals/ae235_t5vels.jpg",
+   "price": 149.99,
+   "category": "Drills"
+ },
+ {
+   "productName": "DCS391 165MM 18V LI-ION XR CORDLESS CIRCULAR SAW - BARE",
+   "manufacturer": "Dewalt",
+   "productId": "321004",
+   "quantityInStock": 9,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618065126/vue-fundamentals/ae235_omg2wz.jpg",
+   "price": 114.99,
+   "category": "Saws"
+ },
+ {
+   "productName": "EMIS254S 254MM ELECTRIC DOUBLE-BEVEL SLIDING MITRE SAW 220-240V",
+   "manufacturer": "Erbauer",
+   "productId": "321005",
+   "quantityInStock": 7,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618065336/vue-fundamentals/ae235_x4gbi5.jpg",
+   "price": 179.99,
+   "category": "Saws"
+ },
+ {
+   "productName": "DWS773-GB 216MM ELECTRIC SINGLE-BEVEL SLIDING COMPOUND MITRE SAW 240V ",
+   "manufacturer": "Dewalt",
+   "productId": "321006",
+   "quantityInStock": 10,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618065418/vue-fundamentals/ae235_kawdlk.jpg",
+   "price": 199.99,
+   "category": "Saws"
+ },
+ {
+   "productName": "DHS680Z 165MM 18V LI-ION LXT BRUSHLESS CORDLESS CIRCULAR SAW - BARE",
+   "manufacturer": "Makita",
+   "productId": "321007",
+   "quantityInStock": 12,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618065457/vue-fundamentals/ae235_p0c9if.jpg",
+   "price": 159.99,
+   "category": "Saws"
+ },
+ {
+   "productName": "DCS355N-XJ 18V LI-ION XR BRUSHLESS CORDLESS OSCILLATING MULTI-TOOL - BARE",
+   "manufacturer": "Dewalt",
+   "productId": "321008",
+   "quantityInStock": 13,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618065567/vue-fundamentals/ae235_lp8e0g.jpg",
+   "price": 109.99,
+   "category": "Multi tools"
+ },
+ {
+   "productName": "DTM50Z 18V LI-ION LXT CORDLESS MULTI-TOOL - BARE ",
+   "manufacturer": "Makita",
+   "productId": "321009",
+   "quantityInStock": 12,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618065663/vue-fundamentals/ae235_rezbvf.jpg",
+   "price": 89.99,
+   "category": "Multi tools"
+ },
+ {
+   "productName": "EMT300-QC 300W ELECTRIC MULTI-TOOL 220-240V",
+   "manufacturer": "Erbauer",
+   "productId": "321010",
+   "quantityInStock": 14,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618065708/vue-fundamentals/ae235_libjf0.jpg",
+   "price": 69.99,
+   "category": "Multi tools"
+ },
+ {
+   "productName": "MSMT300QC 300W ELECTRIC MULTI-TOOL 220-240V",
+   "manufacturer": "MacAllister",
+   "productId": "321011",
+   "quantityInStock": 9,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618065831/vue-fundamentals/ae235_xgqpet.jpg",
+   "price": 39.98,
+   "category": "Multi tools"
+ },
+ {
+   "productName": "SP185 46CM 125CC SELF-PROPELLED ROTARY PETROL LAWN MOWER",
+   "manufacturer": "Mountfield",
+   "productId": "321012",
+   "quantityInStock": 7,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618065948/vue-fundamentals/ae235_ovlsu8.jpg",
+   "price": 249.99,
+   "category": "Lawnmowers"
+ },
+ {
+   "productName": "HP164 39CM 123CC HAND-PROPELLED ROTARY PETROL LAWN MOWER",
+   "manufacturer": "Mountfield",
+   "productId": "321013",
+   "quantityInStock": 6,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066003/vue-fundamentals/ae235_mjhcar.jpg",
+   "price": 149.99,
+   "category": "Lawnmowers"
+ },
+ {
+   "productName": "1600W 38CM ELECTRIC LAWN MOWER 220-240V",
+   "manufacturer": "MacAllister",
+   "productId": "321014",
+   "quantityInStock": 9,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066060/vue-fundamentals/ae235_gvll6v.jpg",
+   "price": 79.99,
+   "category": "Lawnmowers"
+ },
+ {
+   "productName": "36V 2.0AH LI-ION CORDLESS 37CM LAWN MOWER",
+   "manufacturer": "Bosch",
+   "productId": "321015",
+   "quantityInStock": 8,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066109/vue-fundamentals/ae235_tkxp94.jpg",
+   "price": 289.99,
+   "category": "Lawnmowers"
+ },
+ {
+   "productName": "ERO450 150MM ELECTRIC RANDOM ORBIT SANDER 220-240V",
+   "manufacturer": "Erbauer",
+   "productId": "321016",
+   "quantityInStock": 14,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066251/vue-fundamentals/ae235_iep2qo.jpg",
+   "price": 69.99,
+   "category": "Sanders"
+ },
+ {
+   "productName": "DBO180Z 125MM 18V LI-ION LXT CORDLESS RANDOM ORBITAL SANDER - BARE",
+   "manufacturer": "Makita",
+   "productId": "321017",
+   "quantityInStock": 12,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066305/vue-fundamentals/ae235_faiuon.jpg",
+   "price": 99.98,
+   "category": "Sanders"
+ },
+ {
+   "productName": "ERO400 125MM ELECTRIC RANDOM ORBITAL SANDER 220-240V",
+   "manufacturer": "Erbauer",
+   "productId": "321018",
+   "quantityInStock": 14,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066357/vue-fundamentals/ae235_fphqoc.jpg",
+   "price": 49.99,
+   "category": "Sanders"
+ },
+ {
+   "productName": "ER2100 2100W ELECTRIC ROUTER 220-240V ",
+   "manufacturer": "Erbauer",
+   "productId": "321019",
+   "quantityInStock": 9,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066430/vue-fundamentals/ae235_i1wbre.jpg",
+   "price": 99.98,
+   "category": "Routers"
+ },
+ {
+   "productName": "EPR710 710W ¼\" ELECTRIC PALM ROUTER 220-240V",
+   "manufacturer": "Erbauer",
+   "productId": "321020",
+   "quantityInStock": 3,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066474/vue-fundamentals/ae235_gkk9wx.jpg",
+   "price": 69.99,
+   "category": "Routers"
+ },
+ {
+   "productName": "RT0700CX4/2 710W ¼\" ELECTRIC ROUTER TRIMMER 240V",
+   "manufacturer": "Makita",
+   "productId": "321021",
+   "quantityInStock": 12,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066550/vue-fundamentals/ae235_mvzjg5.jpg",
+   "price": 129.99,
+   "category": "Routers"
+ },
+ {
+   "productName": "MSR1200 1200W ¼\" ELECTRIC ROUTER 220-240V ",
+   "manufacturer": "MacAllister",
+   "productId": "321022",
+   "quantityInStock": 14,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066629/vue-fundamentals/ae235_ooh3kl.jpg",
+   "price": 39.99,
+   "category": "Routers"
+ },
+ {
+   "productName": "MSSD36T-LI 3.6V 1.3AH LI-ION CORDLESS SCREWDRIVER",
+   "manufacturer": "MacAllister",
+   "productId": "321023",
+   "quantityInStock": 12,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066704/vue-fundamentals/ae235_apjspb.jpg",
+   "price": 16.88,
+   "category": "Screwdrivers"
+ },
+ {
+   "productName": "DCF620P2K-GB 18V 5.0AH LI-ION XR BRUSHLESS CORDLESS COLLATED DRYWALL SCREWDRIVER",
+   "manufacturer": "Dewalt",
+   "productId": "321024",
+   "quantityInStock": 11,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066744/vue-fundamentals/ae235_fh03xw.jpg",
+   "price": 399.98,
+   "category": "Screwdrivers"
+ },
+ {
+   "productName": "DFR550Z 18V LI-ION LXT CORDLESS AUTO-FEED SCREWDRIVER - BARE",
+   "manufacturer": "Makita",
+   "productId": "321025",
+   "quantityInStock": 12,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066879/vue-fundamentals/ae235_yocip7.jpg",
+   "price": 199.98,
+   "category": "Screwdrivers"
+ },
+ {
+   "productName": "M12 BD-202C 12V 2.0AH LI-ION REDLITHIUM CORDLESS SUB-COMPACT SCREWDRIVER",
+   "manufacturer": "Milwaukee",
+   "productId": "321026",
+   "quantityInStock": 12,
+   "image": "https://res.cloudinary.com/kc-cloud/image/upload/v1618066879/vue-fundamentals/ae235_yocip7.jpg",
+   "price": 129.98,
+   "category": "Screwdrivers"
+ }
+]
