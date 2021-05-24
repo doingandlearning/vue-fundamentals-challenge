@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API Rendering</title>
+  <script src="https://unpkg.com/vue@next/dist/vue.global.js"></script>
+  <script src="https://unpkg.com/axios@0.2.1/dist/axios.min.js"></script>
+</head>
+<body>
+  <h1>Some interesting APIs</h1>
+  <p>Here are a few APIs. Can you fetch data from them and then present that data to the user?</p>
+  <ul>
+    <li>Disease related stats: https://disease.sh/docs</li>
+    <li>Climate Data: https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api</li>
+    <li>Famous Quotes: https://quotes.rest/</li>
+    <li>Cocktails: https://www.thecocktaildb.com/api.php?ref=apilist.fun</li>
+  </ul> 
+  <div>
+    <p>Bonus points if you:</p>
+    <ul>
+      <li>Can make it interactive for the user</li>
+    </ul>
+  </div>
+  <div id="app"></div>
+  <script src="./main.js"></script>
+  <script>
+    const mountedApp = app.mount("#app")  
+  </script>
+</body>
+</html>
